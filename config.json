@@ -1,0 +1,26 @@
+{
+    "params": {
+        "ShowBreadCrumbs": true,
+        "defaultTheme": "dark",
+        "ShowShareButtons": true,
+        "profileMode": {
+            "enabled": true,
+            "subtitle": "just some guy on the Internet"
+        },
+        "socialIcons": [
+            {
+                "name": "Flickr",
+                "url": "https://www.flickr.com/photos/lnguyen"
+            },
+            {
+                "name": "Mastodon",
+                "url": "https://hachyderm.io/@theotherlinh"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://instagram.com/theotherlinh/"
+            }
+        ]
+    }
+}
+ 
